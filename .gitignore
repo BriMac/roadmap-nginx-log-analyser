@@ -1,0 +1,7 @@
+# Log data files
+*.log
+
+# OS / editor noise
+.DS_Store
+*~
+*.swp
